@@ -1,4 +1,7 @@
 # Anarchymod-Archive
+**NOTHING HERE IS VERIFIED SAFE, DON'T BLAME ME IF YOU GET RATTED, AND DON'T DOWNLOAD CLIENTS YOU DON'T TRUST!!**
+
+
 
 **Meteor Client Archive (Older versions of meteor client istead of the meteorclient website only having 1.21x) https://github.com/ManInMyVan/meteor-archive**
 
@@ -59,3 +62,5 @@
 **Alien Client (1.21.1) https://github.com/iM4dCat/Alien/releases**
 
 **Shoreline BETA Client Crack (1.21.1) https://github.com/Skitttyy/shoreline-client**
+
+**Krypton Client (1.21) https://www.kryptonclient.com/**
